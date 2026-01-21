@@ -1,12 +1,12 @@
 # ABI OKUSOLUBO
-**Software Engineer**
+**Senior Software Engineer**
 
 📧 abbey477@gmail.com | 📱 (346) 414-9923 | 🌐 https://www.linkedin.com/in/abi-okusolubo-406b4648/| 📍 Houston, TX  
 
 ---
 
 ## PROFESSIONAL SUMMARY
-**Software Engineer** with extensive experience building scalable enterprise applications using Java, Spring Boot, and cloud technologies. Proven track record leading teams, architecting microservices, and implementing DevOps practices. AWS certified with expertise in CI/CD and infrastructure as code.
+**Senior Software Engineer with** 15+ years of experience building scalable enterprise applications using Java, Spring Boot, and cloud technologies. Proven track record leading teams, architecting microservices, and implementing DevOps practices. AWS certified with expertise in CI/CD and infrastructure as code.
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## CERTIFICATIONS
 
-- **AWS Certified Cloud Practitioner**
+- **AWS Certified Cloud Practitioner** (Valid until Dec 2028)
 - **Sun Certified Java Programmer**
 - **Sun Certified Web Component Developer**
 
@@ -54,7 +54,7 @@
 
 - **Led data center migration of** Java applications using AIM and Jules platforms with zero-downtime transitions
 
-- **Upgraded legacy applications** to jdk 17 including dependency updates and performance optimization
+- **Upgraded legacy applications from** JDK 8 to JDK 11 to jdk 17 including dependency updates and performance optimization
 
 - **Worked with AWS services** (EC2, S3, RDS, Lambda, CloudWatch)  cloud deployment and monitoring
 
